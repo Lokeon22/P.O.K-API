@@ -12,7 +12,7 @@ export function Home() {
   const [itensPerPage, setItensPerPage] = useState(12);
   const [currentPage, setCurrentPage] = useState(0);
 
-  // Filter to pokemons list
+  // Filter to pokemons list teste
   const pages = Math.ceil(pokemons.length / itensPerPage);
   const startIndex = currentPage * itensPerPage;
   const endIndex = startIndex + itensPerPage;
