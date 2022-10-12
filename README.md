@@ -2,7 +2,7 @@
 
 ### Preview Content
 
-![pokevid](https://user-images.githubusercontent.com/54092771/194726180-48538141-47b0-4b13-9c48-d3e1f7e9a808.gif)
+![PokeGif](https://user-images.githubusercontent.com/54092771/195345830-d3ae00b0-84b3-4008-a040-381270d3a4ca.gif)
 
 ### Built with
 
