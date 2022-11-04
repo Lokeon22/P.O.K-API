@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+
 import { Cards } from "../components/Cards";
 import { Menu } from "../components/Menu";
 
@@ -78,7 +79,8 @@ export function Home() {
               key={key}
               title={pokemon.name}
               types={pokemon.types}
-              src={pokemon.sprites.front_default}
+              src={pokemon.sprites.other.home.front_default}
+              link={`/pokemon/${pokemon.name}`}
             />
           ))
         ) : (
